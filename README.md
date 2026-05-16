@@ -7,7 +7,7 @@ The objective of this project is to evaluate year-over-year sales trends, identi
 
 Key analysis focus areas include:
 Total Revenue & Sales Analysis:Tracking cumulative performance across product lines.
-* **Year-over-Year (YoY) Performance:** Evaluating sales differences between 2025 and 2026.
+* **Year-over-Year (YoY) Perf Evaluating sales differences between 2025 and 2026.
 * **Profitability Insights:** Analyzing profit margins and identifying areas of loss. *Methodology & Formulas
 To calculate the percentage growth/variance between periods, the following standard analytical formula was implemented in the dataset:
 
